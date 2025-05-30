@@ -1,5 +1,4 @@
 # BTLComputerVision
-Phát hiện bất thường(trái cây lỗi,vật thể lạ) trên băng chuyền thu hoạch nông sản
 Phát hiện bất thường (trái cây lỗi, vật thể lạ) trên băng chuyền thu hoạch nông sản bằng xử lý ảnh cơ bản
 📌 1. Mục tiêu đề tài
 Xây dựng một hệ thống thị giác máy tính đơn giản, không dùng AI, nhằm giám sát quá trình thu hoạch nông sản (ví dụ: táo, cam...) trên băng chuyền và phát hiện các bất thường, bao gồm:
