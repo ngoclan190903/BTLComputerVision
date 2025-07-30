@@ -62,6 +62,7 @@ Hình ảnh , Video, webcam  đầu vào
 Bối cảnh: Băng chuyền vận chuyển các quả táo
 
 ✅ Kết quả đầu ra
+
 <img width="634" height="386" alt="image" src="https://github.com/user-attachments/assets/0a2d3b9f-56ec-4c55-ae3c-3e8d97341914" /> 
 
 https://github.com/user-attachments/assets/e97d3406-ede1-435a-9c0b-83be9ad37d84
